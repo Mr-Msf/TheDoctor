@@ -1,0 +1,4 @@
+Runny Nose --> Cold
+Fever --> Flu
+Shortness of Breath --> Pneumonia
+Tiredness --> Sleep Deprivation
